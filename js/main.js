@@ -5,7 +5,7 @@
 //parte del login 
 
 
-let savedPIN = "9897";
+let savedPIN = "989796";
 
 function login() {
     let ingresar= false; 
